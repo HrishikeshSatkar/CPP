@@ -1,0 +1,3 @@
+C:/C++/01-DeepCopy/build/CMakeFiles/DeepCopy.dir
+C:/C++/01-DeepCopy/build/CMakeFiles/edit_cache.dir
+C:/C++/01-DeepCopy/build/CMakeFiles/rebuild_cache.dir
